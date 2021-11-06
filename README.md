@@ -1,8 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hari</h1>
+
 <h3 align="center">I'm a passionate A.A.I Researcher And Developer from India.</h3>
 
+===
 
 ### 🙋‍♂️ About Me
 
@@ -18,7 +20,7 @@
 
 ---
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I Use:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
