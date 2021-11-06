@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/ODRDLabs/ODRDLabs/blob/5d6914cb6e9e6f13deddd34f3eae79ed25462c87/gitwalldefault1.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/ODRDLabs/ODRDLabs/blob/f7be98abbb20299f7859b771d7f1dc9e17ad0c9c/gitwalldefault.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hari</h1>
 
