@@ -1,5 +1,5 @@
 ### Hi there, I'm Hari👋
-## I'm a Tech Enthusiast, Independent Researcher, Developer, and an Philanthropist!!
+#### I'm a Tech Enthusiast, Independent Researcher, Developer, and an Philanthropist!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
