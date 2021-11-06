@@ -47,7 +47,7 @@
 
 ---
 
-## 🔮 Operating Systems :
+## 🔮 Operating Systems That I Work On :
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 My Github Status
+## 📊 My Github Status :
 
   <br/>
     <a href="https://github.com/ODRDLabs/github-readme-stats"><img alt="Hari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ODRDLabs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
