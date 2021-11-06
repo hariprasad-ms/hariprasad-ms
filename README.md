@@ -14,13 +14,15 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **hariprasad.m68@gmail.com**
+- 📫 How to reach me : **hariprasad.m68@gmail.com**
 
 - ⚡ Fun fact **I play games and practice martial arts.**
 
 ---
 
-## 🚀 Languages and Tools I Use:
+## 🚀 Languages And Tools I Use :
+
+--
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
