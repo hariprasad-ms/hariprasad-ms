@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate A.A.I Researcher And Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Project Destiny A.A.I]()**
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 My Github Stats
+## 📊 My Github Status
 
   <br/>
     <a href="https://github.com/ODRDLabs/github-readme-stats"><img alt="Hari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ODRDLabs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -67,8 +67,3 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thefallenang31s)
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
