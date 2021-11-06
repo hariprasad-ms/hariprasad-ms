@@ -1,11 +1,11 @@
 ### Hi there, I'm Hari👋
 #### I'm a Tech Enthusiast, Independent Researcher, Developer, and an Philanthropist!!
 
-- 🔭 Quest to creating Pure AI - Status : !
+- 🔭 Quest to creating Pure AI - Status : [![Status](https://badgen.net/uptime-robot/status/m780862024-50db2c44c703e5c68d6b1ebb)] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to 
 
 ### Connect with me:
 
