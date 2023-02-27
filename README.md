@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Destiny A.A.I]()**
+- 🔭 I’m currently working on **[Project Destiny A.A.I](https://github.com/Our-Destiny)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
