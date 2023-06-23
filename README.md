@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **hariprasad.m68@gmail.com**
 
-- ⚡ Fun fact **I play games and practice martial arts.**
+- ⚡ Fun fact **Iam an Visual Effects Artists and Practice Martial Arts.**
 
 ---
 
