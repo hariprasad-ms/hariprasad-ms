@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Project Destiny A.A.I](https://github.com/Our-Destiny)**
 
-- 🌱 I’m currently learning **Transformers, LangChain and Rag.**
+- 🌱 I’m currently learning **Transformers, LangChain and RAG.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
